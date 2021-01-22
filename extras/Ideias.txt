@@ -1,0 +1,7 @@
+MainPage sem navbar
+As outras terá navbar
+Botão para aceder ao Europass Web
+Menu de cards a mostrar projectos do github
+Usar repos do github para fazer host static pages
+comprar dominio e alterar dominio
+botões para aceder as redes sociais

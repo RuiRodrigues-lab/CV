@@ -1,0 +1,13 @@
+.altura-80 {
+    min-height: 85vh;
+}
+
+.fundo-picture {
+    background: url(img/PagRui.jpeg)center/cover no-repeat fixed;
+}
+#nomeFonte {
+    font-family: 'Dancing Script', cursive;
+}
+.text-cursive{
+    font-family: cursive;
+}
