@@ -9,4 +9,5 @@ Esforcei-me para criar a pagina toda usando as seguintes tecnologias:
 **O site é hospedado através do netlify**
 
 Cumprimentos,
+
 *Rui Rodrigues*
