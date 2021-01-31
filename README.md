@@ -8,6 +8,8 @@ Esforcei-me para criar a pagina toda usando as seguintes tecnologias:
 
 **O site é hospedado através do netlify**
 
+Pagina do *CV [Rui Rodrigues](https://ruirodrigues.netlify.app/).*
+
 Cumprimentos,
 
 *Rui Rodrigues*
