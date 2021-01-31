@@ -1,6 +1,7 @@
 # *Curriculum Vitae* - Rui Rodrigues
 
 Bem vindo ao meu *Curriculum Vitae* repos, neste repositorio podes encontrar todo o codigo usado para criar a minha pagina.
+
 Esforcei-me para criar a pagina toda usando as seguintes tecnologias:
 1. HTML 5
 2. CSS 3
