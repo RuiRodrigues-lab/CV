@@ -1,12 +1,12 @@
 # *Curriculum Vitae* - Rui Rodrigues
 
-Bem vindo ao meu *Curriculum Vitae* repos, neste repositoria podes encontrar todo o codigo usado para criar a minha pagina
+Bem vindo ao meu *Curriculum Vitae* repos, neste repositorio podes encontrar todo o codigo usado para criar a minha pagina.
 Esforcei-me para criar a pagina toda usando as seguintes tecnologias:
 1. HTML 5
 2. CSS 3
 3. Bootstrap 5 (Beta)
 
-**O site é hospedado através do netlify**
+**O site é hospedado através do netlify**.
 
 Pagina do *CV [Rui Rodrigues](https://ruirodrigues.netlify.app/).*
 
