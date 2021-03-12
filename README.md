@@ -8,6 +8,7 @@ Esforcei-me para criar a pagina toda usando as seguintes tecnologias:
 3. Bootstrap 5 (Beta)
 
 **O site é hospedado através do netlify**.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c242a11d-0366-4bf2-8d7d-8d14a564456c/deploy-status)](https://app.netlify.com/sites/ruirodrigues/deploys)
 
 Pagina do *CV [Rui Rodrigues](https://ruirodrigues.netlify.app/).*
 
